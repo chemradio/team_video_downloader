@@ -1,0 +1,8 @@
+cookies_netscape.txt
+basedir.txt
+__pycache__/
+*.pyc
+.DS_Store
+.vscode/
+env/
+
